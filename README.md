@@ -1,2 +1,2 @@
 # useful_script
-useful script
+This repository is used to keep track of useful script for later usage
