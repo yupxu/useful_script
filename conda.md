@@ -17,3 +17,11 @@ conda env list
 conda info -e
 
 
+
+### 更改 conda 镜像
+```
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+conda config --set show_channel_urls yes
+```
+
