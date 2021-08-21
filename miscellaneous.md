@@ -8,3 +8,9 @@ cd "$(brew --repo)"
 git remote set-url origin https://mirrors.ustc.edu.cn/brew.git
 
 ```
+
+
+### 安装 wget
+```
+brew install wget
+```
