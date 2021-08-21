@@ -8,6 +8,7 @@ conda config --set show_channel_urls yes
 
 
 ### 常用命令
+```
 1. 查看安装了哪些包  
 conda list
 
@@ -25,7 +26,7 @@ source deactivate 退出虚拟环境
 conda env list   
 conda info -e
 
-
+```
 
 
 
