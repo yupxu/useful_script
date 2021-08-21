@@ -1,4 +1,4 @@
-### 更改 conda 镜像
+### 更改 conda 镜像 (.condarc)
 ```
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
