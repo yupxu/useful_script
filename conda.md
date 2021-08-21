@@ -1,6 +1,15 @@
+### 更改 conda 镜像
+```
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+conda config --set show_channel_urls yes
+```
+
+
+
+### 常用命令
 1. 查看安装了哪些包  
 conda list
-
 
 2. 检查更新当前conda  
 conda update conda
@@ -18,10 +27,5 @@ conda info -e
 
 
 
-### 更改 conda 镜像
-```
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-conda config --set show_channel_urls yes
-```
+
 
