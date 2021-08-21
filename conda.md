@@ -1,9 +1,8 @@
-1. 查看安装了哪些包
-
+1. 查看安装了哪些包  
 conda list
 
 
-2. 检查更新当前conda
+2. 检查更新当前conda  
 conda update conda
 
 3. Python创建虚拟环境
